@@ -56,7 +56,7 @@ Terrain Model
 The hillshade layer maps the terrain using light and shadow to create a 3D-looking image, 
 based on a hypothetical illumination of the ground level.
 
-![Source: National Ecological Observatory Network (NEON).](../images/dc-spatial-raster/lidarTree-height.png)
+![Source: National Ecological Observatory Network (NEON).]({{ site.baseurl }}/images/dc-spatial-raster/lidarTree-height.png)
 
 First, we need to import the DTM and DTM hillshade data.
 
